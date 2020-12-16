@@ -1,9 +1,8 @@
 # SiameseNet for MNIST Dataset
+Learn the Siamese Net with MNIST and Tensorflow 2.3 and Python 3.8
+
 ### prerequisite 
-Learning the Siamese Net with MNIST and Tensorflow 2.3 and Python 3.8
-
 Creating this network to learn about the basic siamese net.
-
 The requirement for running the code:
 ```
 pip install tensorflow-gpu==2.3.1
