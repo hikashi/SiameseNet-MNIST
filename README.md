@@ -1,4 +1,4 @@
-# SiamenseNet for MNIST Dataset
+# SiameseNet for MNIST Dataset
 ### prerequisite 
 Learning the Siamese Net with MNIST and Tensorflow 2.3 and Python 3.8
 
