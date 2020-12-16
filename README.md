@@ -18,7 +18,6 @@ Some libraries that need to be included:
 pip install idx2numpy
 pip install numpy
 pip install matplotlib
-pip install seaborn as sns
 ```
 
 ### How to run the code
