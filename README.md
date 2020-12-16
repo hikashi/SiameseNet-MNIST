@@ -37,3 +37,5 @@ So I highly suggesting you guys using Anaconda/Enthought to create a testing env
 https://github.com/ywpkwon/siamese_tf_mnist
 
 https://github.com/vnherdeiro/siamese-mnist
+
+https://github.com/tensorfreitas/Siamese-Networks-for-One-Shot-Learning
