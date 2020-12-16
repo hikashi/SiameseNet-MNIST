@@ -32,4 +32,6 @@ This is based of a simple design of CNN network.
 
 ### Other works that can be referred
 I have tried some of the other works but only some of them works due to different environment requiremnet. 
-So I high suggested using Anaconda/Enthought to create a testing environment for testing out the code.
+So I highly suggesting you guys using Anaconda/Enthought to create a testing environment for testing out the code.
+https://github.com/ywpkwon/siamese_tf_mnist
+https://github.com/vnherdeiro/siamese-mnist
