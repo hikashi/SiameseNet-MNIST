@@ -24,11 +24,24 @@ pip install seaborn as sns
 ### How to run the code
 To execute the code, you may enter the following command:
 ```
-python 
+python test.py
 ```
 
+To test input of two values using Siamese network, enter the following command:
+```
+python customTest.py
+```
+Inside the folder of "TestData" would have several samples for you to try. 
+In addition, it is possible to include your own data but need to rename the variable inside the "CustomTest.py".
+
 ### Design and Explaination
-This is based of a simple design of CNN network. 
+This is based of a simple design of CNN network with 2 layers (convolutional layer + max pooling layer).
+The activation of the CNN layer is 1120 embedded features where serve as legs for the Siamese network.
+
+As for the Siamese network, we would have 2 legs, which are denoted as left leg and right leg connected one dense layer with only 1 vector output.
+The vector ouput a floating number, which 0.0 denotes both pair of data not similar and 1.0 represents highly similar.
+
+The model will save a copy of ".h5" model in the "model" folder for further usage.
 
 
 ### Other works that can be referred
